@@ -1,0 +1,67 @@
+ .Barradeinicio {
+    background-color: black;
+ }
+ a:link {text-decoration: none;
+}
+ a:visited {text-decoration: none;
+}
+.link { color: #ffffff;
+} 
+.somos {font-family: sans-serif;
+}
+
+.img {
+
+    width: 200px;
+    height: 200px;;
+}
+
+.trb1 {
+    width: 300px;
+    height: 300px;
+}
+
+.trb1 {
+    border-top:solid 5px rgba(0, 0, 0, 0.603);
+    border-right:solid 5px rgba(0, 0, 0, 0.603);
+    border-bottom:solid 5px rgba(0, 0, 0, 0.603);
+    border-left:solid 5px rgba(0, 0, 0, 0.603);
+}
+
+.textotrb1 {
+    position: absolute;
+    top: 200px; 
+    left: 300px;
+
+}
+
+.textotrb2 {
+    position: absolute;
+    top: 500px; 
+    right: 320px;
+}
+
+.trb2 {
+    border-top:solid 5px rgba(0, 0, 0, 0.603);
+    border-right:solid 5px rgba(0, 0, 0, 0.603);
+    border-bottom:solid 5px rgba(0, 0, 0, 0.603);
+    border-left:solid 5px rgba(0, 0, 0, 0.603);
+}
+
+
+.equipo {
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    margin: 5px;
+
+}
+
+.flex-container {
+    display: flex;
+    background:gray;
+    border: solid black;
+    padding: 20px;
+    justify-content: space-between;
+
+}
